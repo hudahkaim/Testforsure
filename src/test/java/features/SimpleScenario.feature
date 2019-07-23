@@ -19,8 +19,8 @@ Feature: Test the calculator subcration
     
     |9|3|-|TC5|  
     |6|0|-|TC6|  
-    |0|3|/|TC7|  
-    |4|9|/|TC8|  
+    |0|3|-|TC7|  
+    |4|9|-|TC8|  
     
     
     # TC1: Positive integer divided by positive integer (9,3)
