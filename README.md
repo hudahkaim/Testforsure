@@ -1,7 +1,7 @@
-selenium-cucumber-Calculator
+Testingexrcise
 =================
 
-Calculator : Automation Testing Using Java
+
 
 Please follow below steps to run the application
 
